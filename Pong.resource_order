@@ -1,0 +1,7 @@
+{
+  "FolderOrderSettings": [],
+  "ResourceOrderSettings": [
+    {"name":"sBall","order":1,"path":"sprites/sBall/sBall.yy",},
+    {"name":"oBall","order":1,"path":"objects/oBall/oBall.yy",},
+  ],
+}
